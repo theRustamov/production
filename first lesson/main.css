@@ -1,0 +1,14 @@
+p.red{
+    color: rgba(99, 83, 114, 0.849);
+}
+
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 240px;
+    height: 240px;
+    
+    border-radius: 30px;
+}
